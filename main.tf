@@ -78,3 +78,4 @@ resource "aws_s3_object" "Bucket_files" {
   # ETag of the S3 object
   etag = each.value.digests.md5
 }
+
