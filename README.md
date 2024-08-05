@@ -1,1 +1,1 @@
-Deployed a static website on Amazon s3 with Tearraform.
+Deployed a static website on Amazon s3 with Terraform.
